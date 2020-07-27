@@ -4,7 +4,8 @@ This is a small application made for classifying genders based on a given face. 
 
 ## How to Use
 
-Under development!
+- Application is still under development.
+- To use the Jupyter Notebook, simply clone this repository, and open the notebook in Google Colaboratory.
 
 ## Requirements
 
